@@ -31,10 +31,12 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adiatgithub/LeetCode/tree/master/0049-group-anagrams) |
+| [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adiatgithub/LeetCode/tree/master/0049-group-anagrams) |
+| [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -43,4 +45,8 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adiatgithub/LeetCode/tree/master/0049-group-anagrams) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
