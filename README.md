@@ -39,11 +39,13 @@ When approaching a new problem, I follow this 5-step checklist:
 | ------- |
 | [0049-group-anagrams](https://github.com/adiatgithub/LeetCode/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adiatgithub/LeetCode/tree/master/0049-group-anagrams) |
+| [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
 ## Sorting
 |  |
@@ -66,4 +68,9 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adiatgithub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
