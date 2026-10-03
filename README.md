@@ -32,6 +32,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | ------- |
 | [0049-group-anagrams](https://github.com/adiatgithub/LeetCode/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/adiatgithub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/adiatgithub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adiatgithub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -57,6 +58,7 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adiatgithub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/adiatgithub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
@@ -76,4 +78,8 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/adiatgithub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
