@@ -85,5 +85,10 @@ When approaching a new problem, I follow this 5-step checklist:
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/adiatgithub/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/adiatgithub/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
