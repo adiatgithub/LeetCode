@@ -48,6 +48,7 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adiatgithub/LeetCode/tree/master/0049-group-anagrams) |
+| [0093-restore-ip-addresses](https://github.com/adiatgithub/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
 ## Sorting
@@ -100,4 +101,8 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0021-merge-two-sorted-lists](https://github.com/adiatgithub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/adiatgithub/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/adiatgithub/LeetCode/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
