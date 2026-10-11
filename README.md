@@ -35,6 +35,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0303-range-sum-query-immutable](https://github.com/adiatgithub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adiatgithub/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adiatgithub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -105,4 +106,8 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/adiatgithub/LeetCode/tree/master/0093-restore-ip-addresses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adiatgithub/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
