@@ -116,4 +116,8 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adiatgithub/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adiatgithub/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
