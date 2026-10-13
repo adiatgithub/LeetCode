@@ -37,6 +37,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adiatgithub/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adiatgithub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adiatgithub/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adiatgithub/LeetCode/tree/master/0049-group-anagrams) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adiatgithub/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -110,4 +112,8 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adiatgithub/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adiatgithub/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
