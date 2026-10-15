@@ -81,6 +81,7 @@ When approaching a new problem, I follow this 5-step checklist:
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -94,6 +95,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0021-merge-two-sorted-lists](https://github.com/adiatgithub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/adiatgithub/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -104,6 +106,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0021-merge-two-sorted-lists](https://github.com/adiatgithub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/adiatgithub/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -120,4 +123,8 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adiatgithub/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
