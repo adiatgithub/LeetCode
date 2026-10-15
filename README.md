@@ -42,6 +42,7 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adiatgithub/LeetCode/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/adiatgithub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
@@ -81,6 +82,7 @@ When approaching a new problem, I follow this 5-step checklist:
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/adiatgithub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -93,6 +95,7 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adiatgithub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/adiatgithub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/adiatgithub/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -127,4 +130,8 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/adiatgithub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
