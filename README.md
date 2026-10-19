@@ -57,6 +57,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0093-restore-ip-addresses](https://github.com/adiatgithub/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [2000-reverse-prefix-of-word](https://github.com/adiatgithub/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0234-palindrome-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/adiatgithub/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
@@ -136,6 +138,7 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/adiatgithub/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
