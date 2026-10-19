@@ -68,6 +68,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0209-minimum-size-subarray-sum](https://github.com/adiatgithub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/adiatgithub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/adiatgithub/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Counting
 |  |
 | ------- |
@@ -138,4 +139,12 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/adiatgithub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/adiatgithub/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/adiatgithub/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 <!---LeetCode Topics End-->
