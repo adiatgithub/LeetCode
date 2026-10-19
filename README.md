@@ -38,6 +38,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [2225-find-players-with-zero-or-one-losses](https://github.com/adiatgithub/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adiatgithub/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adiatgithub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/adiatgithub/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adiatgithub/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
