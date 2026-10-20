@@ -35,6 +35,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0303-range-sum-query-immutable](https://github.com/adiatgithub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [1002-find-common-characters](https://github.com/adiatgithub/LeetCode/tree/master/1002-find-common-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/adiatgithub/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adiatgithub/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adiatgithub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -48,6 +49,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [1002-find-common-characters](https://github.com/adiatgithub/LeetCode/tree/master/1002-find-common-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/adiatgithub/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adiatgithub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
@@ -57,6 +59,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0093-restore-ip-addresses](https://github.com/adiatgithub/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [1002-find-common-characters](https://github.com/adiatgithub/LeetCode/tree/master/1002-find-common-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/adiatgithub/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
