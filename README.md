@@ -156,4 +156,8 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/adiatgithub/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+## Database
+|  |
+| ------- |
+| [0585-investments-in-2016](https://github.com/adiatgithub/LeetCode/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
