@@ -62,6 +62,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [1002-find-common-characters](https://github.com/adiatgithub/LeetCode/tree/master/1002-find-common-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adiatgithub/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/adiatgithub/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
@@ -143,6 +144,7 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adiatgithub/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/adiatgithub/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -160,4 +162,8 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0585-investments-in-2016](https://github.com/adiatgithub/LeetCode/tree/master/0585-investments-in-2016) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adiatgithub/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
