@@ -158,6 +158,7 @@ When approaching a new problem, I follow this 5-step checklist:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/adiatgithub/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/adiatgithub/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Graph Theory
 |  |
@@ -171,4 +172,12 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adiatgithub/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Tree
+|  |
+| ------- |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/adiatgithub/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/adiatgithub/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
