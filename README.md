@@ -61,6 +61,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0049-group-anagrams](https://github.com/adiatgithub/LeetCode/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/adiatgithub/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/adiatgithub/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [1002-find-common-characters](https://github.com/adiatgithub/LeetCode/tree/master/1002-find-common-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adiatgithub/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -100,6 +101,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0142-linked-list-cycle-ii](https://github.com/adiatgithub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/adiatgithub/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/adiatgithub/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
