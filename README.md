@@ -43,6 +43,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adiatgithub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/adiatgithub/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adiatgithub/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/adiatgithub/LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [1002-find-common-characters](https://github.com/adiatgithub/LeetCode/tree/master/1002-find-common-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adiatgithub/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/adiatgithub/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/adiatgithub/LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0876-middle-of-the-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/adiatgithub/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adiatgithub/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/adiatgithub/LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Design
 |  |
 | ------- |
@@ -140,6 +143,7 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adiatgithub/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/adiatgithub/LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Math
 |  |
 | ------- |
