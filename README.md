@@ -38,6 +38,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [1002-find-common-characters](https://github.com/adiatgithub/LeetCode/tree/master/1002-find-common-characters) |
+| [1470-shuffle-the-array](https://github.com/adiatgithub/LeetCode/tree/master/1470-shuffle-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/adiatgithub/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adiatgithub/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adiatgithub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
