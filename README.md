@@ -36,6 +36,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adiatgithub/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adiatgithub/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0565-array-nesting](https://github.com/adiatgithub/LeetCode/tree/master/0565-array-nesting) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [1002-find-common-characters](https://github.com/adiatgithub/LeetCode/tree/master/1002-find-common-characters) |
 | [1260-shift-2d-grid](https://github.com/adiatgithub/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -194,4 +195,8 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/adiatgithub/LeetCode/tree/master/1260-shift-2d-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/adiatgithub/LeetCode/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
