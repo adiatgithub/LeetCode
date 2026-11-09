@@ -94,6 +94,7 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adiatgithub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/adiatgithub/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +151,7 @@ When approaching a new problem, I follow this 5-step checklist:
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/adiatgithub/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adiatgithub/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adiatgithub/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Stack
