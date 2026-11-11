@@ -147,6 +147,7 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adiatgithub/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/adiatgithub/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/adiatgithub/LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Math
 |  |
@@ -154,6 +155,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0367-valid-perfect-square](https://github.com/adiatgithub/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adiatgithub/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adiatgithub/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/adiatgithub/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
 | ------- |
