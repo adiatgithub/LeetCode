@@ -45,6 +45,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [2778-sum-of-squares-of-special-elements](https://github.com/adiatgithub/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adiatgithub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/adiatgithub/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adiatgithub/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adiatgithub/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/adiatgithub/LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Hash Table
@@ -85,6 +86,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0303-range-sum-query-immutable](https://github.com/adiatgithub/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/adiatgithub/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adiatgithub/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0209-minimum-size-subarray-sum](https://github.com/adiatgithub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adiatgithub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adiatgithub/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
