@@ -56,6 +56,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adiatgithub/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adiatgithub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
+| [0756-pyramid-transition-matrix](https://github.com/adiatgithub/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [1002-find-common-characters](https://github.com/adiatgithub/LeetCode/tree/master/1002-find-common-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/adiatgithub/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -67,6 +68,7 @@ When approaching a new problem, I follow this 5-step checklist:
 | [0093-restore-ip-addresses](https://github.com/adiatgithub/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0567-permutation-in-string](https://github.com/adiatgithub/LeetCode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/adiatgithub/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0756-pyramid-transition-matrix](https://github.com/adiatgithub/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0811-subdomain-visit-count](https://github.com/adiatgithub/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [1002-find-common-characters](https://github.com/adiatgithub/LeetCode/tree/master/1002-find-common-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adiatgithub/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -142,6 +144,7 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/adiatgithub/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0756-pyramid-transition-matrix](https://github.com/adiatgithub/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 ## Enumeration
 |  |
 | ------- |
@@ -206,4 +209,8 @@ When approaching a new problem, I follow this 5-step checklist:
 |  |
 | ------- |
 | [0565-array-nesting](https://github.com/adiatgithub/LeetCode/tree/master/0565-array-nesting) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/adiatgithub/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
